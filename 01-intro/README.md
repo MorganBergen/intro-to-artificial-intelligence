@@ -16,8 +16,8 @@
 
 ### the foundations of artificial intelligence
 
-
 ### the history of artificial intelligence
+
 
 ### the state of the art
 
